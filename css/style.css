@@ -1,6 +1,6 @@
 
 .top-bar{
-	background-color: #716C6C;
+	background-color: #323232;
 	height: 120px;
 }
 .top-bar img {
@@ -48,10 +48,10 @@ a{
 }
 .foto5 img{
 	float: left;
-  	margin-top: 30px;
+  	margin-top: 20px;
   	width: 100%;
   	margin-left: 8px;
-	border: 1px solid #E4E3E3;
+	border: 2px solid #E4E3E3;
 	padding: 2px;
 }
 .lateral{
@@ -75,6 +75,7 @@ h2{
 	text-align: center;
 	width: 100%;
 	margin-top: 2px;
+	padding: 4px;
 }
 .lateral img{
 	float: left;
@@ -84,8 +85,45 @@ h2{
 }
 .linea{
 	background-color:  #8C8B8B;
-	height: 2px;
 	width: 100%;
 	margin: 2px;
 	float: left;
 }
+.lateral2 p{
+	text-decoration: none;
+	text-align: center;
+	width: 100%;
+	margin-top: 2px;
+	float:right;
+}
+.lateral2 a{
+	width: 100%;
+	float: left;
+	padding: 6px;
+}
+footer{
+	background-color: #323232;
+	height: 150px;
+	margin-bottom: 10px; 
+}
+.final p{
+	width: 100%;
+	color:#fff;
+	margin: 5px;
+	padding: 15px;
+}
+.final a{
+	color: #A4A4A4;
+}
+.navegador a{
+	color:  #A4A4A4;
+	padding: 5px;
+	margin-right:-5px;
+	display: inline;
+}
+.navegador{
+	margin: 10px;
+	padding: 10px;
+	margin-left: -55px;
+}
+
